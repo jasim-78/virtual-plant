@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.error-background{
+    background-color: transparent;
+    height: 100vh;
+}
